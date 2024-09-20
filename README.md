@@ -1,4 +1,4 @@
-# **GDELT Dataset Analysis: Event Frequency Comparison and Temporal Analysis **
+# GDELT Dataset Analysis: Event Frequency Comparison and Temporal Analysis 
 
 This repository provides a comprehensive analysis of the **GDELT (Global Database of Events, Language, and Tone)** dataset, focusing on event frequency comparisons across countries, temporal patterns, and hypothesis testing. This project also implements predictive models based on various event characteristics, offering insights into global media coverage and political stability from 1979 to 2021.
 
